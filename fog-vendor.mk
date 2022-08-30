@@ -676,6 +676,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fog/proprietary/vendor/lib/modules/audio_apr.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_apr.ko \
     vendor/xiaomi/fog/proprietary/vendor/lib/modules/audio_aw87xxx.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_aw87xxx.ko \
     vendor/xiaomi/fog/proprietary/vendor/lib/modules/audio_bolero_cdc.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_bolero_cdc.ko \
+    vendor/xiaomi/fog/proprietary/vendor/lib/modules/audio_fs1599.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_fs1599.ko \
     vendor/xiaomi/fog/proprietary/vendor/lib/modules/audio_machine_bengal.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_machine_bengal.ko \
     vendor/xiaomi/fog/proprietary/vendor/lib/modules/audio_mbhc.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_mbhc.ko \
     vendor/xiaomi/fog/proprietary/vendor/lib/modules/audio_native.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/audio_native.ko \
